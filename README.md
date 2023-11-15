@@ -1,1 +1,1 @@
-Issue tracker only
+[Issue tracker only](/issues)
